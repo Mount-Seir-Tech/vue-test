@@ -72,8 +72,8 @@ npm run lint
 ### 1. Make a component for the Movie Items
 Create a component that displays the Title, Year, and Creator of the Movie.  This should be reused for every movie in the list.
 
-### 2. Movie Interface
-Create an Interface for the movie type.  This should match up with the data returning from the API.
+### 2. Movie Type
+Create a Type for the movie.  This should match up with the data returning from the API.
 
 ### 3. Create a details View for a movie item.
 When a user clicks on a movie item a new window should open up will all the movie details.
